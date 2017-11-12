@@ -15,12 +15,3 @@ let g:airline_powerline_fonts=1
 let g:NERDTreeShowGitStatus=1
 
 inoremap jk <ESC>
-
-no <down> <Nop>
-no <left> <Nop>
-no <right> <Nop>
-no <up> <Nop>
-ino <down> <Nop>
-ino <left> <Nop>
-ino <right> <Nop>
-ino <up> <Nop>
