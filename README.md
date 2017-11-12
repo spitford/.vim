@@ -1,6 +1,4 @@
 # .vim
-basic setup for vim
-
 This is my basic setup for Vim.
 first you need to symlink the vimrc to .vimrc in your home directory, then init the submodules.
 
