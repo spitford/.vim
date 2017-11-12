@@ -6,6 +6,7 @@ first you need to symlink the vimrc to .vimrc in your home directory, then init 
 
 cd ~
 git clone http://github.com/spitford/.vim.git
+
 ln -s ~/.vim/vimrc ~/.vimrc
 
 cd ~/.vim
