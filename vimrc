@@ -7,6 +7,7 @@ set shiftwidth=4
 set nu
 syntax on
 filetype indent on
+filetype plugin on
 
 set t_Co=256
 
