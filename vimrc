@@ -8,9 +8,10 @@ set nu
 syntax on
 filetype indent on
 
+set t_Co=256
+
 let g:airline_powerline_fonts=1
 let g:NERDTreeShowGitStatus=1
-colorscheme dracula
 
 inoremap jk <ESC>
 
