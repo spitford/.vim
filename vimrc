@@ -15,3 +15,5 @@ let g:airline_powerline_fonts=1
 let g:NERDTreeShowGitStatus=1
 
 inoremap jk <ESC>
+
+set noshowmode
