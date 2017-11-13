@@ -12,7 +12,6 @@ filetype plugin on
 set t_Co=256
 
 let g:airline_powerline_fonts=1
-let g:NERDTreeShowGitStatus=1
 
 inoremap jk <ESC>
 
