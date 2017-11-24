@@ -1,1 +1,2 @@
-colorscheme flatcolor
+colorscheme onedark
+AirlineTheme flatcolor
