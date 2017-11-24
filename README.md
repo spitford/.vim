@@ -12,4 +12,4 @@ first you need to symlink the vimrc to .vimrc in your home directory, then init 
 
 `git submodule init`
 
-`git submodule update`
+`git submodule update --remote`
