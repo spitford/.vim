@@ -2,8 +2,8 @@ execute pathogen#infect()
 
 set tabstop=8
 set expandtab
-set softtabstop=4
-set shiftwidth=4
+set softtabstop=3
+set shiftwidth=3
 set nu
 syntax on
 filetype indent on
