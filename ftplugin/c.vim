@@ -1,2 +1,2 @@
 colorscheme onedark
-AirlineTheme flatcolor
+AirlineTheme challenger_deep
