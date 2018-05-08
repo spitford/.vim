@@ -1,0 +1,2 @@
+colorscheme deus
+AirlineTheme deep_space
