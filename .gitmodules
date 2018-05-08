@@ -13,3 +13,6 @@
 [submodule "bundle/colorschemes"]
 	path = bundle/colorschemes
 	url = https://github.com/rafi/awesome-vim-colorschemes.git
+[submodule "bundle/TagHighlight"]
+	path = bundle/TagHighlight
+	url = https://github.com/vim-scripts/TagHighlight.git
