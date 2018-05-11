@@ -4,7 +4,7 @@ set tabstop=8
 set expandtab
 set softtabstop=3
 set shiftwidth=3
-set nu
+set number
 syntax on
 filetype indent on
 filetype plugin on
