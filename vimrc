@@ -18,5 +18,9 @@ let g:airline_powerline_fonts=1
 colorscheme onedark
 
 inoremap jk <ESC>
+inoremap @@ <cr>Billy Boyle<cr>(250) 888-5702<cr>boyleb@hotmail.com<cr>
+
+nnoremap <leader>ev :vsplit $MYVIMRC<cr>
+nnoremap <leader>sv :w<cr>:source $MYVIMRC<cr>
 
 set noshowmode
