@@ -11,7 +11,7 @@ filetype indent on
 filetype plugin on
 
 set t_Co=256
-set termguicolors
+" set termguicolors
 
 let g:airline_powerline_fonts=1
 
