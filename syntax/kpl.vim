@@ -4,6 +4,7 @@ syntax keyword kplTodos TODO XXX FIXME NOTE
 
 syntax keyword kplKeywords
    \ if
+   \ else
    \ endIf
    \ var
    \ endMethod
@@ -16,6 +17,10 @@ syntax keyword kplKeywords
    \ fields
    \ header
    \ code
+   \ for
+   \ endFor
+   \ endFunction
+   \ endCode
 
 syntax match kplNumber "\v<\d+>"
 syntax match kplNumber "\v<\d+\.\d+>"
@@ -43,6 +48,8 @@ syn keyword kplType ptr to
 syn keyword kplImports uses nextgroup=kplType skipwhite
 syn match kplType '[a-zA-Z_][a-zA-Z0-9_]*' display contained
 
+syn keyword kplConstant null
+
 highlight default link kplTodos Todo
 highlight default link kplComment Comment
 
@@ -50,7 +57,7 @@ highlight default link kplString String
 highlight default link kplInterpolatedWrapper Delimiter
 highlight default link kplNumber Number
 highlight default link kplBoolean Boolean
-
+highlight default link kplConstant Constant
 highlight default link kplOperator Operator
 highlight default link kplKeywords Keyword
 highlight default link kplStructure Structure
