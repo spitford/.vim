@@ -19,6 +19,7 @@ syntax keyword kplKeywords
    \ code
    \ for
    \ endFor
+   \ function
    \ endFunction
    \ endCode
 
