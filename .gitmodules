@@ -16,3 +16,6 @@
 [submodule "bundle/TagHighlight"]
 	path = bundle/TagHighlight
 	url = https://github.com/vim-scripts/TagHighlight.git
+[submodule "bundle/pear-tree"]
+	path = bundle/pear-tree
+	url = https://github.com/tmsvg/pear-tree.git

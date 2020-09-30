@@ -18,6 +18,7 @@ let g:airline_powerline_fonts=1
 colorscheme onedark
 
 inoremap jk <ESC>
+imap jk <Plug>(PearTreeFinishExpansion)
 inoremap @@ <cr>Billy Boyle<cr>(250) 888-5702<cr>boyleb@hotmail.com<cr>
 
 nnoremap <leader>ev :vsplit $MYVIMRC<cr>
